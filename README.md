@@ -64,10 +64,7 @@ The model is trained to learn the distribution of `transmission` values conditio
 This project is released under the MIT License.
 
 ### 👨‍💻 Authors
-Mahmood Hasani  
-Master's Student, Quantum Information Science  
-Shahid Beheshti University
-
+---
 ---
 For any issues or questions, feel free to open an issue or reach out directly.
 
